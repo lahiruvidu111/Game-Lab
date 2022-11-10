@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "273217328036",
+    "project_id": "game-lab-2",
+    "storage_bucket": "game-lab-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273217328036:android:a086a20c3308e8f679e731",
+        "android_client_info": {
+          "package_name": "com.mycompany.gamelab2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273217328036-55rfajl7dav77bd681bhnn1ao90skv6v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.gamelab2",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "273217328036-9lnljkqg31evu8pmcblk6e7t9vifj9na.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5NSXHnDW2_1--LqUrlHVE-D-GVnpdCNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273217328036-9lnljkqg31evu8pmcblk6e7t9vifj9na.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "273217328036-tfn32vltjpa2b234g6ud12q3i1r4t4qr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.gamelab2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
